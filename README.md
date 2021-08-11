@@ -1,1 +1,1 @@
-# sketchsnipe.github.io
+# Magic
