@@ -1,7 +1,7 @@
 ## Leadership
-**I have lead over 9 study-groups in the past 2 years of university.**
+### I have lead over 9 study-groups in the past 2 years of university.
 
-This task included:
+*I was responsable for:*
 - Maintaining and moderating a slack/discord group
 - Organizing weekly study-groups
 - Developing resources and learning material for the rest of class using LaTeX and HTML+CSS
